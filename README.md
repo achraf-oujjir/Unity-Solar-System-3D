@@ -36,3 +36,8 @@ Ensure you have Unity installed (version 2020.x or later is recommended). Open t
 - The project simulates the solar system, with planets orbiting the sun and rotating on their axes.
 - Use your mouse to control the camera's view within the solar system. The cursor is hidden to provide a more immersive experience.
 - Watch as planets like Mercury, Venus, Earth, and others move in their respective orbits.
+
+## 🔧 Scripts:
+
+- Planetary Rotation Scripts: C# scripts control the rotation of each planet based on its angular velocity. The script is customized for each planet and they are present 
+
