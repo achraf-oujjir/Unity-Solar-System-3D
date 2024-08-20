@@ -11,7 +11,7 @@ The solar system model includes all eight planets, each with realistic textures 
 ## 🌌 Features
 
 - **Dynamic Planetary Motion**: Each planet orbits the sun and rotates on its own axis. The rotation speed is based on real-world angular velocities.
-- **Realistic Textures**: Custom textures for the sun and planets provide a detailed and accurate visual representation.
+- **Realistic Textures**: Custom [textures](Assets/Textures) for the sun and planets provide a detailed and accurate visual representation.
 - **Immersive Skybox**: A space-themed skybox, downloaded from Unity's Asset Store, enhances the visual immersion of the solar system.
 - **Custom Camera Controls**: The camera is controlled via mouse input, allowing users to freely explore the solar system with smooth, intuitive movements.
 
@@ -43,6 +43,22 @@ The solar system model includes all eight planets, each with realistic textures 
 - Camera Control Script: [Camera_Control.cs](Assets/Scripts/Camera_Control.cs) allows the camera to be controlled via mouse input, giving users freedom to explore the solar system. The script is attached to the Main Camera object.
 
 ## 📸 Media
+
+<br>
+<div align="center">
+   <img align="center" alt="preview" width="800" src="Images/7preview.png">
+   <br><br>
+   Preview of the Solar System Set Up   
+</div>
+<br>
+
+<br>
+<div align="center">
+   <img align="center" alt="different_speeds_rotation" width="800" src="Images/9diff_speeds_rotations.png">
+   <br><br>
+   We can see the different rotation speeds for each planet  
+</div>
+<br>
 
 ## 📚 References
 
