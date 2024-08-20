@@ -8,7 +8,7 @@ This project was developed as part of a school assignment, with the goal of crea
 
 The solar system model includes all eight planets, each with realistic textures and rotational scripts, along with a sun represented by a textured sphere. The scene is enhanced by a space-themed skybox, providing a visually appealing background.
 
-## 🎮 Features
+## 🌌 Features
 
 - **Dynamic Planetary Motion**: Each planet orbits the sun and rotates on its own axis. The rotation speed is based on real-world angular velocities.
 - **Realistic Textures**: Custom textures for the sun and planets provide a detailed and accurate visual representation.
@@ -28,17 +28,29 @@ The solar system model includes all eight planets, each with realistic textures 
    ```bash
    git clone https://github.com/YourUsername/VR-Solar-System-3D.git
    ```
-2. Open the Project in Unity:
+2. **Open the Project in Unity**:
    Ensure you have Unity installed (version 2020.x or later is recommended). Open the project using Unity Hub or the Unity editor.
 
-## 🎮 Usage
+## 🧭 Usage
 
 - The project simulates the solar system, with planets orbiting the sun and rotating on their axes.
 - Use your mouse to control the camera's view within the solar system. The cursor is hidden to provide a more immersive experience.
 - Watch as planets like Mercury, Venus, Earth, and others move in their respective orbits.
 
-## 🔧 Scripts:
+## 🔧 Scripts
 
 - Planetary Rotation Scripts: C# scripts control the rotation of each planet based on its angular velocity. The script is customized for each planet and they are located in Scripts directory.
 
 - Camera Control Script: Camera_Control.cs allows the camera to be controlled via mouse input, giving users freedom to explore the solar system. The script is attached to the Main Camera object.
+
+## 📸 Media
+
+## 📚 References
+
+- [Unity Asset Store Skybox](https://assetstore.unity.com)
+- [Skybox Asset Used in this Project](https://assetstore.unity.com/packages/2d/textures-materials/sky/starfield-skybox-92717)
+- [C# Scripting in Unity](https://docs.unity3d.com/Manual/scripting.html)
+
+## 📝 License
+
+This project is licensed under the MIT License. See the LICENSE file for more details.
