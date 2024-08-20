@@ -28,7 +28,7 @@ The solar system model includes all eight planets, each with realistic textures 
    git clone https://github.com/achraf-oujjir/Unity-Solar-System-3D.git
    ```
 2. **Open the Project in Unity**:
-   Ensure you have Unity installed (version 2020.x or later is recommended). Open the project using Unity Hub or the Unity editor. Refer to this [article]([https://support.unity.com/hc/en-us/articles/4402520287124-How-do-I-add-a-project-saved-on-my-computer-into-the-Unity-Hub]).
+   Ensure you have Unity installed (version 2020.x or later is recommended). Open the project using Unity Hub or the Unity editor. Refer to this [article](https://support.unity.com/hc/en-us/articles/4402520287124-How-do-I-add-a-project-saved-on-my-computer-into-the-Unity-Hub).
 
 ## 🧭 Usage
 
