@@ -20,7 +20,6 @@ The solar system model includes all eight planets, each with realistic textures 
 - **Unity 3D**
 - **C# for scripting**
 - **Skybox from Unity Asset Store**
-- **Textures provided by the project brief**
 
 ## 📦 Installation
 
@@ -39,9 +38,9 @@ The solar system model includes all eight planets, each with realistic textures 
 
 ## 🔧 Scripts
 
-- Planetary Rotation Scripts: C# scripts control the rotation of each planet based on its angular velocity. The script is customized for each planet and they are located in Scripts directory.
+- Planetary Rotation Scripts: C# scripts control the rotation of each planet based on its angular velocity. The script is customized for each planet and they are located in [Scripts](Assets/Scripts) directory.
 
-- Camera Control Script: Camera_Control.cs allows the camera to be controlled via mouse input, giving users freedom to explore the solar system. The script is attached to the Main Camera object.
+- Camera Control Script: [Camera_Control.cs](Assets/Scripts/Camera_Control.cs) allows the camera to be controlled via mouse input, giving users freedom to explore the solar system. The script is attached to the Main Camera object.
 
 ## 📸 Media
 
