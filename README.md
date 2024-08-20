@@ -1,4 +1,4 @@
-# Unity Solar System 3D 🪐🌍
+# Unity Solar System 3D 🪐🌌
 
 A 3D interactive model of the solar system, developed in Unity with C#. This project was created to explore the possibilities of 3D modeling, VR environments, and scripting using Unity. The planets dynamically orbit the sun and rotate on their axes, providing an immersive space simulation.
 
