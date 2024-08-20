@@ -64,7 +64,6 @@ The solar system model includes all eight planets, each with realistic textures 
 
 - [Unity Asset Store Skybox](https://assetstore.unity.com)
 - [Skybox Asset Used in this Project](https://assetstore.unity.com/packages/2d/textures-materials/sky/starfield-skybox-92717)
-- [C# Scripting in Unity](https://docs.unity3d.com/Manual/scripting.html)
 
 ## 📝 License
 
