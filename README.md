@@ -1,4 +1,4 @@
-# VR Solar System 3D 🌌
+# VR Solar System 3D 🪐🌍
 
 A 3D interactive model of the solar system, developed in Unity with C#. This project was created to explore the possibilities of 3D modeling, VR environments, and scripting using Unity. The planets dynamically orbit the sun and rotate on their axes, providing an immersive space simulation.
 
@@ -24,12 +24,12 @@ The solar system model includes all eight planets, each with realistic textures 
 
 ## 📦 Installation
 
-1. **Clone the Repository**:  
+1. **Clone the Repository**:
    ```bash
    git clone https://github.com/YourUsername/VR-Solar-System-3D.git
    ```
 2. Open the Project in Unity:
-Ensure you have Unity installed (version 2020.x or later is recommended). Open the project using Unity Hub or the Unity editor.
+   Ensure you have Unity installed (version 2020.x or later is recommended). Open the project using Unity Hub or the Unity editor.
 
 ## 🎮 Usage
 
@@ -39,5 +39,6 @@ Ensure you have Unity installed (version 2020.x or later is recommended). Open t
 
 ## 🔧 Scripts:
 
-- Planetary Rotation Scripts: C# scripts control the rotation of each planet based on its angular velocity. The script is customized for each planet and they are present 
+- Planetary Rotation Scripts: C# scripts control the rotation of each planet based on its angular velocity. The script is customized for each planet and they are located in Scripts directory.
 
+- Camera Control Script: Camera_Control.cs allows the camera to be controlled via mouse input, giving users freedom to explore the solar system. The script is attached to the Main Camera object.
