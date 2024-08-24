@@ -1,35 +1,3 @@
-using System.Collections;
-using System.Collections.Generic;
-using UnityEngine;
-
-public class Uranus : MonoBehaviour
-{
-
-    public float selfRotateSpeed = 1.0f;
-    public float uranusOrbitSpeed = 6.81f;
-
-    // Start is called before the first frame update
-    void Start()
-    {
-        GameObject soleil = GameObject.Find("Soleil");
-        GameObject uranus = GameObject.Find("Uranus");
-
-        if (soleil == null || uranus == null)
-        {
-            Debug.Log("L'un des deux objets n'existe pas !!");
-
-        }
-
-    }
-
-    // Update is called once per frame
-    void Update()
-    {
-
-        GameObject soleil = GameObject.Find("Soleil");
-        GameObject uranus = GameObject.Find("Uranus");
-
-        uranus.transform.Rotate(0, selfRotateSpeed * Time.deltaTime, 0);
-        transform.RotateAround(soleil.transform.position, - soleil.transform.up, uranusOrbitSpeed * Time.deltaTime);
-    }
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:46fbf939225d089efb4e5afb144b7a9d2d45b5f34bdb85080377b2a9a7c69dc7
+size 937
